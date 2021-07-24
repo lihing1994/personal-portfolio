@@ -1,0 +1,21 @@
+{
+    "Name": "Operating System",
+    "data":[
+        {
+            "name" : "Mac Os",
+            "proficiency" : 100
+        },
+        {
+            "name" : "Windows",
+            "proficiency" : 100
+        },
+        {
+            "name" : "Linux(Ubuntu distribution)",
+            "proficiency" : 80
+        },
+        {
+            "name" : "Linux(Centos distribution)",
+            "proficiency" : 60
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Name": "Web Development",
+    "data":[
+        {
+            "name" : "HTML",
+            "proficiency" : 95
+        },
+        {
+            "name" : "CSS",
+            "proficiency" : 90
+        },
+        {
+            "name" : "Material UI/React Material UI",
+            "proficiency" : 85
+        },
+        {
+            "name" : "MySQL",
+            "proficiency" : 80
+        },
+        {
+            "name" : "BootStrap/React BootStrap",
+            "proficiency" : 75
+        }
+    ]
+}

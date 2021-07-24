@@ -1,0 +1,17 @@
+{
+    "Name": "Communication",
+    "data":[
+        {
+            "name" : "Cantonese",
+            "proficiency" : 100
+        },
+        {
+            "name" : "Mandarin",
+            "proficiency" : 100
+        },
+        {
+            "name" : "English",
+            "proficiency" : 85
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "Name": "Programming Language",
+    "data":[
+        {
+            "name" : "C/C++",
+            "proficiency" : 100
+        },
+        {
+            "name" : "Java",
+            "proficiency" : 95
+        },
+        {
+            "name" : "Python",
+            "proficiency" : 90
+        },
+        {
+            "name" : "C#",
+            "proficiency" : 90
+        },
+        {
+            "name" : "JavaScript",
+            "proficiency" : 80
+        },
+        {
+            "name" : "Swift",
+            "proficiency" : 50
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "Name":"Tools and Applications",
+    "data":[
+        {
+            "name" : "Xcode",
+            "proficiency" : 95
+        },
+        {
+            "name" : "Visual Studio and Visual Studio Code",
+            "proficiency" : 90
+        },
+        {
+            "name" : "IntelliJ Idea",
+            "proficiency" : 90
+        },
+        {
+            "name" : "Eclipse",
+            "proficiency" : 90
+        },
+        {
+            "name" : "Git and GitHub",
+            "proficiency" : 90
+        },
+        {
+            "name" : "Autodesk Maya",
+            "proficiency" : 85
+        },
+        {
+            "name" : "Jupyter Notebook",
+            "proficiency" : 85
+        },
+        {
+            "name" : "MySQL",
+            "proficiency" : 85
+        },
+        {
+            "name" : "Unreal engine",
+            "proficiency" : 80
+        },
+        {
+            "name" : "Unity",
+            "proficiency" : 80
+        },
+        {
+            "name" : "Sidefx Houdini",
+            "proficiency" : 70
+        }
+    ]
+}

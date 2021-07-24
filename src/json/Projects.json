@@ -1,0 +1,78 @@
+{
+    "Name":"Coursework Project",
+    "data":[
+        {
+            "index" : "0",
+            "name" : "Rendering System with OcTree acceleration algorithm",
+            "year" : "Mar 2021 - May 2021",
+            "description": "Implementing OcTree acceleration algorithm and integrating it into the Rendering System project that has been in December 2020. By applying OcTree acceleration algorithm, the Rendering System is able to render a complicated environment, taking Mesh Object as an example, in a real time.",
+            "methodology": [{"info":"Programming Language: C++"},{"info":"Framework: OpenFrameWorks"},{"info":"Algorithm: Ray-Tracing, Ray-Marching, Phong-shading, and OcTree acceleration."}],
+            "link" : "https://github.com/lihing1994/Rendering-image-With-OcTree-Acceleration",
+            "relatedCourse":"CS 116B - Computer Graphics Algorithms."
+        },
+        {
+            "index" : "1",
+            "name" : "WillItEnd website",
+            "year" : "Jan 2021 - May 2021",
+            "description":"A project to predict when herd immunity of COVID-19 will reach for each state of U.S. By collecting data from CDC, for each state the average number of people being vaccinated per day is obtainable. Then, the remaining number of people required to be vaccinated in order to make the state reaching herd immunity is able to be calculated. Using this number divide by the average number of people being vaccinated per day is able to find out how long until a state will reach herd immunity in days.",
+            "methodology": [{"info":"Front-End: React.JS, Material UI."},{"info":"Back-End:Spring Boot."},{"info":"DataBase: MySQL."},{"info":"Data Pipeline: Python."},{"info":"Library: Pandas."}],
+            "link" : "https://github.com/lihing1994/Will-it-end-website",
+            "relatedCourse":"CS 160 - Software Engineering."
+        }, 
+        {
+            "index" : "2",
+            "name" : "Hidden Markov Model",
+            "year" : "Oct 2020 - Dec 2020",
+            "description":"Hidden Markov Model(HMM) is a famous statistical Markov model.The goal of this project is to implement HMM from the scratch using C++ programming language.",
+            "methodology": [{"info":"Programming Language: C++"}],
+            "link" : "https://github.com/lihing1994/Hidden-Markov-Model",
+            "relatedCourse":"CS 185C - Advanced Practical Computing Topics: Machine Learning."
+        },
+        {
+            "index" : "3",
+            "name" : "Rendering System",
+            "year" : "Sep 2020 - Dec 2020",
+            "description":"Implementing a Rendering System from the scratch.The rendering system use Ray-Tracing algorithm to render an image of a 3D environment. To make the image looks more realistic and pretty, following rendering techinques or effects including Phong-shading,Texture,Point light, Area light, Spot light, and Mirror reflection effects, have been implemented and integrated into the project.",
+            "methodology": [{"info":"Programming Language: C++"},{"info":"Framework: OpenFrameWorks"},{"info":"Algorithm: Ray-Tracing,Phong-shading."}],
+            "link" : "https://github.com/lihing1994/Rendering-image",
+            "relatedCourse":"CS 116A - Introduction to Computer Graphics."
+        },
+        {
+            "index" : "4",
+            "name" : "2D Arcade Fighting Game",
+            "year" : "Feb 2020 - May 2020",
+            "description":"A 2D arcade shooting game, which is powered by C++ and OpenFrameWorks. A particle system has been implemented and integrated into this project so that each particle object in the game is able to move with acceleration along with different paths.",
+            "methodology": [{"info":"Programming Language: C++"},{"info":"Framework: OpenFrameWorks"}],
+            "link" : "https://github.com/lihing1994/2D-Arcade-Shooting-Game",
+            "relatedCourse":"CS 134 - Computer Game Design and Programming."
+        },
+        {
+            "index" : "5",
+            "name" : "Max-Heap implementation",
+            "year" : "Sep 2020 - Oct 2020",
+            "description":"Implementing the Max-Heap data structure uses array representation. After inserting all the value into the heap, the method called maxHeapify is able to sort all the variable stored in the Heap in a decreasing order in O(nlgn) time complexity.",
+            "methodology": [{"info":"Programming Language: Java"}],
+            "link" : "https://github.com/lihing1994/MaxHeap",
+            "relatedCourse":"CS 146 - Data Structures and Algorithms."
+
+        },
+        {
+            "index" : "6",
+            "name" : "AVL Tree implementation",
+            "year" : "Oct 2020 - Nov 2020",
+            "description":"Implementing the AVL tree, which is a self-balancing binary search tree. A balancing binary search tree means that for each node in the AVL tree the height difference its left child and right child should not great than 1. The time complexity of following operations including, searching value from the tree, inserting a value to the tree, removing value fro the tree, are all O(nlgn).",
+            "methodology": [{"info":"Programming Language: Java"}],
+            "link" : "https://github.com/lihing1994/AVLTree",
+            "relatedCourse":"CS 146 - Data Structures and Algorithms."
+        },
+        {
+            "index" : "7",
+            "name" : "Snake Game",
+            "year" : "Sep 2020 - Dec 2020",
+            "description":"Snake Game has became famous since Nokia embed the Game in their product. Comparing to the original game, this project not only has a better graphic quality but also has an additional player vs player mode.",
+            "methodology": [{"info":"Programming Language: Java"}],
+            "link" : "https://github.com/lihing1994/SnakeGame",
+            "relatedCourse":"CS 151 - Object-Oriented Design."
+        }
+    ]
+}

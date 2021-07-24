@@ -1,0 +1,39 @@
+{
+    "Name":"Experience",
+    "data":[
+        {
+            "company" : "San José State University, San José, CA",
+            "year" : "Aug 2020 - Present",
+            "title" : "Instructional Student Assistant",
+            "position" : "IA for CS152 - Programming Paradigms",
+            "detail": [
+                {"info" : "Helping professor grading student's assignments, projects, labs, midterms,and final exam."},
+                {"info" : "Explaining challenging topics to student and help them to obtain a better understanding about those topics."},
+                {"info" : "Working together with professor to find out better teaching method based on student feedback."}
+
+            ]
+        },
+        {
+            "company" : "Santa Monica College, Santa Monica, CA",
+            "year" : "Sep 2018 - Jun 2019",
+            "title" : "Supplemental Instruction",
+            "position" : "SI for CS20A/CS20B - Data Structures with C++/Java",
+            "detail": [
+                {"info" : "Helping student master concept of data structures including, Link-List, Heap, Queue, Binary Tree, Binary Search tree, and AVL Tree."},
+                {"info" : "Helping student to come out their idea to implement data structure including, Link-List, Heap, Queue, Binary Tree, and Binary Search Tree."},
+                {"info" : "Creating mock exams helping student papering their midterms and final exam."}
+            ]
+        },
+        {
+            "company" : "Santa Monica College, Santa Monica, CA",
+            "year" : "Jun 2017 - Jun 2019",
+            "title" : "Computer Science Tutor",
+            "position":"Tutor for C/C++, Java, Python,Visual Basic, and Assembly Language",
+            "detail": [
+                {"info" : "Helping student mastering fundamental concept of programming including, If-Statement, Loops, Array, and Function."},
+                {"info" : "Helping student mastering concept of object oriented programming including, abstraction, encapsulation, inheritance, and polymorphism."},
+                {"info" : "Helping student to identify bugs and errors in their projects or assignments."}
+            ]
+        }
+    ]
+}

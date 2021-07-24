@@ -1,0 +1,37 @@
+{
+    "Name":"Framework or Libary",
+    "data":[
+        {
+            "name" : "OpenFrameWorks",
+            "proficiency" : 95
+        },
+        {
+            "name" : "Opengl",
+            "proficiency" : 90
+        },
+        {
+            "name" : "React JS",
+            "proficiency" : 90
+        },
+        {
+            "name" : "Spring Boot",
+            "proficiency" : 70
+        },
+        {
+            "name" : "Tensorflow",
+            "proficiency" : 70
+        },
+        {
+            "name" : "Keras",
+            "proficiency":70
+        },
+        {
+            "name" : "Pandas",
+            "proficiency" : 70
+        },
+        {
+            "name" : "Node.JS",
+            "proficiency" : 50
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "Name":"Education",
+    "data":[
+        {
+            "name" : "San José State University",
+            "year" : "Sep 2019 - Dec 2021",
+            "GPA"  : "3.69",
+            "link" : "https://www.sjsu.edu/cs/",
+            "realtedCourses": [
+                {"title" : "CS 116A - Introduction to Computer Graphics."},
+                {"title" : "CS 116B - Computer Graphics Algorithms."},
+                {"title" : "CS 134 - Computer Game Design and Programming."},
+                {"title" : "CS 146 - Data Structures and Algorithms."},
+                {"title" : "CS 147 - Computer Architecture."},
+                {"title" : "CS 149 - Operating Systems."},
+                {"title" : "CS 151 - Object-Oriented Design."},
+                {"title" : "CS 152 - Programming Paradigms."},
+                {"title" : "CS 154 - Formal Languages and Computability."},
+                {"title" : "CS 157A - Introduction to Database Management Systems."},
+                {"title" : "CS 158A - Computer Networks."},
+                {"title" : "CS 160 - Software Engineering."},
+                {"title" : "CS 185C - Advanced Practical Computing Topics: Machine Learning."}
+            ],
+            "realtedCourseOnGoing":[
+                {"title" : "CS 155 - Introduction to the Design and Analysis of Algorithms."},
+                {"title" : "CS 158B - Computer Network Management."},
+                {"title" : "CS 185C - Advanced Practical Computing Topics."}
+            ]
+        },
+        {
+            "name" : "Santa Monica College",
+            "year" : "Sep 2015 - Sep 2019",
+            "GPA"  : "3.45",
+            "link" : "https://www.smc.edu",
+            "realtedCourses": [
+                {"title" : "CS 3 - Introduction to Computer Systems."},
+                {"title" : "CS 15 - Visual Basic Programming."}, 
+                {"title" : "CS 17 - Assembly Language Programming."}, 
+                {"title" : "CS 20A - Data Structures with C++."}, 
+                {"title" : "CS 20B - Data Structures with Java."}, 
+                {"title" : "CS 40 - Operating Systems."}, 
+                {"title" : "CS 41 - Linux Workstation Administration."}, 
+                {"title" : "CS 42 - computer architecture."}, 
+                {"title" : "CS 50 - C Programming."}, 
+                {"title" : "CS 52 - C++ Programming."},
+                {"title" : "CS 55 - Java Programming."}, 
+                {"title" : "CS 53A - iOS Development with Swift."}, 
+                {"title" : "CS 53B - iOS Mobile App Development."},  
+                {"title" : "CS 56 - Advanced Java Programming."}, 
+                {"title" : "CS 87A - Python Programming."}
+            ],
+            "realtedCourseOnGoing":[]
+        }
+    ]
+}
