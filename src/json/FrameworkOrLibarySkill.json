@@ -10,7 +10,7 @@
             "proficiency" : 90
         },
         {
-            "name" : "React JS",
+            "name" : "React.JS",
             "proficiency" : 90
         },
         {
@@ -28,10 +28,6 @@
         {
             "name" : "Pandas",
             "proficiency" : 70
-        },
-        {
-            "name" : "Node.JS",
-            "proficiency" : 50
         }
     ]
 }
